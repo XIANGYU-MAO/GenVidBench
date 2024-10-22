@@ -18,6 +18,8 @@ Reference
 License
 ---
 Updating...
+
+✨ If you find our data helpful, please point a star. Thank you very much!
 <!--
 **genvidbench/GenVidBench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
