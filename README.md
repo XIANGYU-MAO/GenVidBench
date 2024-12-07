@@ -18,7 +18,7 @@ Reference
 
 License
 ---
-Updating...
+CC BY-NC 4.0
 
 ✨ If you find our data helpful, please point a star. Thank you very much!
 <!--
