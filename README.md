@@ -17,10 +17,14 @@ News
 
 2025/01/20: The paper is published at https://arxiv.org/abs/2501.11340.
 
+License
+---
+CC BY-NC 4.0
 
 Reference
 ---
-
+✨ If you find our data helpful, please cite our paper or point a star. Thank you very much!
+```
 @misc{ni2025genvidbenchchallengingbenchmarkdetecting,
       title={GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video}, 
       author={Zhenliang Ni and Qiangyu Yan and Mouxiao Huang and Tianning Yuan and Yehui Tang and Hailin Hu and Xinghao Chen and Yunhe Wang},
@@ -30,9 +34,5 @@ Reference
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2501.11340}, 
 }
+```
 
-License
----
-CC BY-NC 4.0
-
-✨ If you find our data helpful, please point a star. Thank you very much!
