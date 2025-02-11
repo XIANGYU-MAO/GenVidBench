@@ -20,6 +20,7 @@ News
 
 Reference
 ---
+
 @misc{ni2025genvidbenchchallengingbenchmarkdetecting,
       title={GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video}, 
       author={Zhenliang Ni and Qiangyu Yan and Mouxiao Huang and Tianning Yuan and Yehui Tang and Hailin Hu and Xinghao Chen and Yunhe Wang},
