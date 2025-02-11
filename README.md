@@ -15,11 +15,20 @@ News
 
 2025/01/25: The training code is released.
 
-2025/01/20: The paper was published.
+2025/01/20: The paper is published at https://arxiv.org/abs/2501.11340.
 
 
 Reference
 ---
+@misc{ni2025genvidbenchchallengingbenchmarkdetecting,
+      title={GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video}, 
+      author={Zhenliang Ni and Qiangyu Yan and Mouxiao Huang and Tianning Yuan and Yehui Tang and Hailin Hu and Xinghao Chen and Yunhe Wang},
+      year={2025},
+      eprint={2501.11340},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.11340}, 
+}
 
 License
 ---
