@@ -1,7 +1,7 @@
 ## GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu, Xinghao Chen, Yunhe Wang‡
 
-Dataset: [BaiDuYun](https://pan.baidu.com/s/1KWg3znu14AOC6iOOT_iqMg#list/path=%2F) 
+Dataset: [BaiDuYun](https://pan.baidu.com/s/1KWg3znu14AOC6iOOT_iqMg#list/path=%2F) The code is: 6Bb4
 
 Instruction
 ---
