@@ -14,8 +14,6 @@ News
 
 2025/01/25: The training code is released.
 
-2025/01/20: The paper is published at https://arxiv.org/abs/2501.11340.
-
 License
 ---
 CC BY-NC 4.0
