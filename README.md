@@ -16,7 +16,7 @@ The rapid advancement of video generation models has made it increasingly challe
 #### **1. 训练集：来自“其他来源”的视频对**
 训练集由与测试集**不同来源**且使用**不同生成器**生成的视频组成，避免模型依赖特定内容或生成器的属性。  
 **示例**：  
-- 训练集主要包含“Pair1”中的视频，real视频为ript，fake视频由4个文本到视频（T2V）生成器基于**VidProM数据集的文本提示***生成：  
+- 训练集主要包含“Pair1”中的视频，real视频为ript，fake视频由4个文本到视频（T2V）生成器基于**VidProM数据集的文本提示**生成：  
   - Pika  
   - VideoCrafter2  
   - Modelscope
@@ -82,5 +82,10 @@ The rapid advancement of video generation models has made it increasingly challe
 图中显示，SVD的分类准确率最低，这证明其生成性能最佳。
 
 上述实验结果表明，模型在单一场景中的分类性能与在所有场景中的分类性能存在差异，因此有必要针对不同场景进行视频检测生成。GenVidBench提供的丰富语义标签有助于分析每个场景。
+
+### 任务解读
+作为light方：
+1. 提供一个框架，供dark方进行检测，最终获得结果（是否由AI生成）
+2. 针对dark方原始生成模式以及改进后的模式持续优化，使得检测更准确。
 
 
